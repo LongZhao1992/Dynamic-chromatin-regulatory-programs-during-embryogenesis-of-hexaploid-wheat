@@ -1,0 +1,9 @@
+ID	ANTIBODY	GROUP	COLOR	QC	TURNS	SF
+DAP0_3.bam	H3K4me3	DAP0	turquoise	pass	0.2,0.473,2.65,0.946	1.09
+DAP2_3.bam	H3K4me3	DAP2	yellow	pass	0.4,0.4565,4.85,0.9494	1.9
+DAP4_3.bam	H3K4me3	DAP4	red	pass	0.25,0.4386,4.15,0.9484	1.61
+DAP6em_3.bam	H3K4me3	DAP6em	black	pass	0.15,0.332,3.3,0.9548	1.07
+DAP8em_3.bam	H3K4me3	DAP8em	pink	pass	0.25,0.452,4.15,0.9506	1.65
+DAP12em_3.bam	H3K4me3	DAP12em	blue	pass	0.25,0.5161,3.1,0.9489	1.39
+DAP16em_3.bam	H3K4me3	DAP16em	brown	pass	0.25,0.466,3.95,0.9458	1.62
+DAP22em_3.bam	H3K4me3	DAP22em	green	pass	0.2,0.459,2.5,0.9435	1
