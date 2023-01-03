@@ -1,5 +1,5 @@
 # Dynamic-chromatin-regulatory-programs-during-embryogenesis-of-hexaploid-wheat
-Here, we deposit the supporting code and data of the publication "Dynamic chromatin regulatory programs during embryogenesis of hexaploid wheat" (Zhao et al., 2022) for availability to the broad scientific community. The code and data deposited here are free for academic use. Any other types of use are prohibited.
+Here, we deposit the supporting code and data of the publication **"Dynamic chromatin regulatory programs during embryogenesis of hexaploid wheat"** (Zhao et al., 2022) for availability to the broad scientific community. The code and data deposited here are free for academic use. Any other types of use are prohibited.
 
 ## Abstract
 ### Background
