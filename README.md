@@ -19,3 +19,4 @@ Collectively, we present an invaluable resource for comparative and mechanistic 
 * `4.ChIPseqSpikeInFree.R`	The R script for scale factor calculation in this project. R package ["ChIPseqSpikeInFree"](https://github.com/stjude/ChIPseqSpikeInFree) was used and the metadata for analysis was in the "metadata for ChIPseqSpikeInFree" directory.
 
 Citation: Zhao, L., Yang, Y., Chen, J. et al. Dynamic chromatin regulatory programs during embryogenesis of hexaploid wheat. Genome Biol 24, 7 (2023). https://doi.org/10.1186/s13059-022-02844-2
+
